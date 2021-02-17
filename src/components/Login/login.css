@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+
+body{
+    background-image: url("https://images.vexels.com/media/users/3/148199/isolated/preview/8d2266d10c0de8283c9f225d7f7b045b-colorful-abstract-geometric-background-vector-by-vexels.png");
+    background-position: center center; 
+    background-attachment:scroll;
+    background-repeat: no-repeat; background-size: cover; 
+}
+label{
+    color: white;
+}
+
